@@ -56,4 +56,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Consulte o arquivo L
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **Autor**: Rodrigo Alan Célio
 - **GitHub**: [rodrigoacelio](https://github.com/rodrigoacelio)
-- **LinkedIn**: [Rodrigo Alan Célio](https://www.linkedin.com/in/rodrigo-alan-celio)
+- **LinkedIn**: [Rodrigo Alan Célio](https://www.linkedin.com/in/rodrigoalancelio/)
